@@ -1,0 +1,3 @@
+gunicorn==20.0.4
+pyopenssl
+-r ../monitorlib/requirements.txt
